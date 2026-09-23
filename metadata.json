@@ -1,0 +1,6 @@
+{
+  "name": "OCTA Properties - Real Estate CRM & Investor Portal",
+  "description": "Enterprise Real Estate CRM, Inventory Management, and Investor Portal for OCTA Properties L.L.C. featuring real-time unit reservations, interactive 3D architectural masterplans, lead pipeline automation, and secure investor document vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
